@@ -283,6 +283,7 @@ img { /*  REMEMBER */
 
 .btn-color-1 {
     background: none;
+    color: black;
 }
 
 .btn-color-1:hover {
