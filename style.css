@@ -449,6 +449,7 @@ article .icon {
     align-items: center;
     gap: 0.5rem;
     margin: 1rem;
+    padding: 2px;
 }
 
 .contact-info-container p {
