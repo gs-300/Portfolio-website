@@ -35,7 +35,7 @@ Personal Branding: Treat your portfolio as part of your personal brand. Use a pe
 
   ### Link to web page :
 
-  **_link will go here once available_**
+  **_[Personal Portfolio Project](https://delightful-tapioca-9be5d1.netlify.app/)_**
 
   ## Credits
 
