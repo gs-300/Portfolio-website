@@ -371,7 +371,6 @@ img { /*  REMEMBER */
     display: flex;
     justify-content: center;
     flex-direction: column;
-    /* align-items: center; */
 }
 
 .article-container {
@@ -380,13 +379,13 @@ img { /*  REMEMBER */
     flex-wrap: wrap;
     flex-direction: row;
     gap: 2.5rem;
-    justify-content: space-around;
+    justify-content: center;
 }
 
 article {
     display: flex;
     width: 10rem;
-    justify-content: space-around;
+    justify-content: space-around;  /* article align */
     gap: 0.5rem;
 }
 
